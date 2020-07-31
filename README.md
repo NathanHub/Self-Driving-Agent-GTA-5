@@ -1,9 +1,6 @@
 # Self-Driving-Agent-GTA-5
-# Author S. Sai Hemanth
-# Author Natanael Decena nathannb2424@gmail.com
-# e-mail : saihemanth.s@outlook.com
-# Author M.L. Vihari
-# Author G. RaviTeja
+# Author: Natanael Decena 
+# E-mail: nathannb2424@gmail.com
 
 A python program that can drive a car in GTA V
 
